@@ -1,3 +1,4 @@
+#diceSimultator.py
 import random
 
 #1) TAKE THE USER'S INPUT (main function)
