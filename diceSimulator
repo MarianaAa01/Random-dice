@@ -1,5 +1,5 @@
-
 import random
+
 #1) TAKE THE USER'S INPUT (main function)
 #2) PARSE AND VALIDATE DE USER'S INPUT
 #3) MAKE THE RANDOM GENERATOR
