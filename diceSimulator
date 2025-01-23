@@ -128,7 +128,7 @@ DIE_FACE_SEPARATOR = " "
 
 
 
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Finish up the App's main code block ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ App's main code block ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #1) Take the User's Input
 num_dice_input = int(input("How many dice do you want to roll (between 1 and 6)? "))
 num_dice = parse_input(num_dice_input)
